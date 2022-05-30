@@ -1,0 +1,46 @@
+.container1{
+    padding: 15px;
+    margin:15px;
+}
+.z1{
+    padding-left: 520px;
+    background-color: pink;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#z2{
+    
+        padding-left: 400px;
+       
+    
+}
+#x{
+    margin-left: 520px;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#b{ 
+    font-size:large;
+   font-style:verdana;
+   background-color:pink;
+   color:black;
+   text-shadow: 1cm;
+}
+
+
+
+#a{
+   font-size:larger;
+   font-style:verdana;
+   background-color:pink;
+   color:black;
+   text-shadow: 1cm;
+}
+#c{
+color:black;
+font-style:algery;
+   background-color:pink;
+   color:black;
+   text-shadow: 1cm;
+}
+
